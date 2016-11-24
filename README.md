@@ -9,9 +9,12 @@ as MQTT in this case I decided to use the library pubsubclient.
 
 https://github.com/knolleary/pubsubclient
 
-This example will allow monitoring the temperature of a sensor DS18B20  protocol (Onewire) connected to GPIO02 of a module displaying data ESP8266 
- Node-Red-Dashboard.
+This example will allow monitoring the temperature of a sensor DS18B20  protocol (Onewire) connected to GPIO02 of a module displaying data ESP8266  Node-Red-Dashboard.
  
+#More info :
+Ingles
+http://pdacontrolen.com
+
 This repository contains:
 
 1 arduino IDE Code
@@ -27,8 +30,13 @@ para esp8266 como cliente MQTT en este caso he decidido utilizar la libreria pub
 
 https://github.com/knolleary/pubsubclient
 
+
 Este ejemplo permitira monitorizar la temperatura de un sensor DS18B20 protocolo (Onewire) conectado al GPIO 02 de un
 modulo ESP8266 visualizando datos en Node Red Dashboard
+
+#Mas Informacion:
+Español
+http://pdacontroles.com
 
 Este repositorio Contiene:
 
@@ -39,4 +47,13 @@ Este repositorio Contiene:
 #  Architecture - Arquitectura
 
 ![Portada](https://github.com/JhonControl/ESP8266_GPIO_MQTT_Node_Red/blob/master/extras/arch.PNG)
+
+
+#More info - Mas Informacion:
+Ingles
+http://pdacontrolen.com
+Español
+http://pdacontroles.com
+
+
 
